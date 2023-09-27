@@ -1,0 +1,8 @@
+{
+  "name": "PlaneR",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "b91bf9fe"
+}
